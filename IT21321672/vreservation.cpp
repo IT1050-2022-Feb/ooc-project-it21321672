@@ -12,6 +12,7 @@ reservation::reservation (char Rid[], char RdueDate[], char RreturnDate[], char 
   strcpy(returnLocation,RreturnLocation);
 }
 
+
 void reservation::displaybookingdetails()
 {
     cout << "Vehicle Reservation ID NO : "<< reservationID<< endl;

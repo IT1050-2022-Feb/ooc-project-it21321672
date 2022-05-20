@@ -1,4 +1,5 @@
 class vehicle
+
 {
   private:
     char carId[10];

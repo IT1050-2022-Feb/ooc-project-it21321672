@@ -1,4 +1,5 @@
 class reservation
+
 {
   private:
     char reservationID[10];
